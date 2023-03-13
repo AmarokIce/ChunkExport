@@ -1,0 +1,6 @@
+{
+  "chunk_export.success.message": "Success export!",
+  "chunk_export.failed.message": "Fail export!",
+  "chunk_export.operation.message": "Now calculate the block probability...",
+  "chunk_export.output.message": "Output the Json..."
+}

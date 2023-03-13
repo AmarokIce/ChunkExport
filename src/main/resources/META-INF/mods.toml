@@ -1,0 +1,25 @@
+modLoader="javafml" #mandatory
+loaderVersion="[40,)"
+license="Pineapple"
+[[mods]]
+modId="chunk_export"
+version="${file.jarVersion}"
+displayName="Chunk Export"
+logoFile=""
+credits="someoneice"
+authors="someoneice"
+description='''
+'''
+
+[[dependencies.chunk_export]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.chunk_export]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
